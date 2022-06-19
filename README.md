@@ -1,10 +1,8 @@
 
 
 
-<h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>, eu sou o Yago</h1>
-<p align = "justify">Desenvolvedor FullStack, amante de café, fã de TypeScript, curioso por desempenho, especialista em @react.</p>
-
-Atualmente trabalho na Rede Hospital Casa [Conheça](https://www.redehospitalcasa.com.br/)
+<h1 align = "justify"> Oi, eu sou o Yago <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" ></h1>
+<p align = "justify">Eu sou um engenheiro de software. Atualmente trabalho como Desenvolvedor de Sistemas e Infraestrutura na Rede de Hospitais Casa | RJ  🚀.</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Yago_Fontoura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/yago-fontoura/))](https://www.linkedin.com/in/yago-fontoura/)
 
