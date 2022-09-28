@@ -10,17 +10,18 @@
 
 ## 🚀💻 Tecnologias e Ferramentas
 
-![AWS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Linux](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Windows](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Python](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux)
+![Windows](https://img.shields.io/badge/-Windows-0F4DFF?style=flat-square&logo=windows)
+![Python](https://img.shields.io/badge/-Python-FEE363?style=flat-square&logo=python)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Ansible](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Jenkins](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![SQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![Terraform](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![Zabbix](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-1F1FA0?style=flat-square&logo=kubernetes)
+![Ansible](https://img.shields.io/badge/-Ansible-000000?style=flat-square&logo=ansible)
+![Jenkins](https://img.shields.io/badge/-Jenkins-212529?style=flat-square&logo=jenkins)
+![SQL](https://img.shields.io/badge/-SQL-F29112?style=flat-square&logo=mysql)
+![Terraform](https://img.shields.io/badge/-Terrafom-7647A8?style=flat-square&logo=terraform)
+![Grafana](https://img.shields.io/badge/-Grafana-000000?style=flat-square&logo=grafana)
+![Prometheus](https://img.shields.io/badge/-Prometheus-222222?style=flat-square&logo=prometheus)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
