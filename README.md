@@ -17,7 +17,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-1F1FA0?style=flat-square&logo=kubernetes)
 ![Ansible](https://img.shields.io/badge/-Ansible-000000?style=flat-square&logo=ansible)
-![Jenkins](https://img.shields.io/badge/-Jenkins-212529?style=flat-square&logo=jenkins)
 ![Terraform](https://img.shields.io/badge/-Terrafom-7647A8?style=flat-square&logo=terraform)
 ![Grafana](https://img.shields.io/badge/-Grafana-000000?style=flat-square&logo=grafana)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-222222?style=flat-square&logo=prometheus)
