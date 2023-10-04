@@ -2,7 +2,7 @@
 
 
 <h1 align = "justify"> Oi, eu sou o Yago <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" ></h1>
-<p align = "justify">Profissional de TI, com bacharelado em engenharia de software. Atualmente trabalho como Analista de Suporte, dando suporte as equipes técnicas e cuidando da infraestrutura da empresa, estou em momento de transição para Cloud/DevOps buscando oportunidades.  🚀.</p>
+<p align = "justify">Profissional de TI, com bacharelado em engenharia de software. Atualmente trabalho como Analista de Suporte dando suporte as equipes técnicas e mantendo a infraestrutura, estou em momento de transição para Cloud/DevOps buscando oportunidades.  🚀.</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Yago_Fontoura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/yago-fontoura/))](https://www.linkedin.com/in/yago-fontoura/)
 
