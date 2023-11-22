@@ -41,7 +41,7 @@
 ##
 
 #### Como entrar em contato comigo:
-[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/yago-fontoura/)
+[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/yagofontoura/)
 [<img alt="Mail do Gmail" src="https://img.shields.io/badge/mail-CE3C30?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:yagofontoura222@gmail.com)
 
 ##
