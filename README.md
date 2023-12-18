@@ -51,26 +51,6 @@
 
 ##
 
-#### Experiência Profissional:
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQHJhRl63ekXFg/company-logo_200_200/0/1675347297768/redehospitalcasa_logo?e=1708560000&v=beta&t=5nAlry9Z-vuMvvFtXiobrhV4s67VR8f9nGSrc_uJuaA"/>](https://www.redehospitalcasa.com.br/)
-**Analista de Sistemas** \
-[**Rede Hospital Casa**](https://www.redehospitalcasa.com.br/) • Full-time \
-Competências: `Desenvolvimento Estratégico`, `Análise de Viabilidade`, `Eficiência operacional`, 
-<br/> `Análise e Integridade de dados`
-
-##
-
-#### Formação Acadêmica:
-Na visão geral abaixo você encontrará minha formação acadêmica:
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C560BAQFU-ZKLLdANXg/company-logo_200_200/0/1630657784564/rocketseat_logo?e=1708560000&v=beta&t=r-l6cqHuwSwzm58zFXoHWPK92prF0XVDE8_TGpkJfYM">](https://www.rocketseat.com.br/)
-**Software Developer** \
-[**RocketSeat*](https://www.rocketseat.com.br/) \
-Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React.js`, `TypeScript`
-<br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `Node.js`, `SQL`, `PostgreSQL`
-
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/yago-fontoura/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 ##
