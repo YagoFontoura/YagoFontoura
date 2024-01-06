@@ -25,8 +25,7 @@
 [<img height="48px" width="48px" alt="Icone Redis" src="https://skillicons.dev/icons?i=redis"/>](https://redis.io/)
 [<img height="48px" width="48px" alt="Icone Docker" src="https://skillicons.dev/icons?i=docker"/>](https://www.docker.com/)
 [<img height="48px" width="48px" alt="Icone Vite" src="https://skillicons.dev/icons?i=vite"/>](https://vitejs.dev/)
-[<img height="48px" width="48px" alt="Icone Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
-[<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+
 
 ##
 
@@ -37,8 +36,6 @@
 [<img height="48px" width="48px" alt="Icone Beekeeper" src="https://i.postimg.cc/j5sT81d4/beekeeperstudio.png"/>](https://www.beekeeperstudio.io)
 [<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 [<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
-[<img height="48px" width="48px" alt="Icone Vercer" src="https://skillicons.dev/icons?i=vercel"/>](https://vercel.com)
-[<img height="48px" width="48px" alt="Icone Azuve DevOps" src="https://skillicons.dev/icons?i=azure"/>](https://azure.microsoft.com/pt-br/products/devops/)
 [<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
 
 
