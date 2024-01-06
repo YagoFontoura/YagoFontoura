@@ -17,17 +17,16 @@
 [<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img height="48px" width="48px" alt="Icone Sass" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com)
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
-[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
-[<img height="48px" width="48px" alt="Icone Redux" src="https://skillicons.dev/icons?i=redux"/>](https://redux.js.org/)
-[<img height="48px" width="48px" alt="Icone Jest" src="https://skillicons.dev/icons?i=jest"/>](https://jestjs.io/)
-[<img height="48px" width="48px" alt="Icone Npm.js" src="https://i.postimg.cc/L8k9jKJ2/Group.png"/>](https://www.npmjs.com)
-[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org)
-[<img height="48px" width="48px" alt="Icone express" src="https://skillicons.dev/icons?i=express"/>](https://expressjs.com/pt-br/)
+[<img height="48px" width="48px" alt="Icone PHP" src="https://skillicons.dev/icons?i=php"/>](https://www.php.net/)
+[<img height="48px" width="48px" alt="Icone Laravel" src="https://skillicons.dev/icons?i=laravel"/>](https://laravel.com/)
+[<img height="48px" width="48px" alt="Icone Vue" src="https://skillicons.dev/icons?i=vue"/>](https://vuejs.org/)
 [<img height="48px" width="48px" alt="Icone PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org)
 [<img height="48px" width="48px" alt="Icone MongoDB" src="https://skillicons.dev/icons?i=mongodb"/>](https://www.mongodb.com/)
 [<img height="48px" width="48px" alt="Icone Redis" src="https://skillicons.dev/icons?i=redis"/>](https://redis.io/)
-
+[<img height="48px" width="48px" alt="Icone Docker" src="https://skillicons.dev/icons?i=docker"/>](https://www.docker.com/)
+[<img height="48px" width="48px" alt="Icone Vite" src="https://skillicons.dev/icons?i=vite"/>](https://vitejs.dev/)
+[<img height="48px" width="48px" alt="Icone Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+[<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 
 ##
 
@@ -41,6 +40,7 @@
 [<img height="48px" width="48px" alt="Icone Vercer" src="https://skillicons.dev/icons?i=vercel"/>](https://vercel.com)
 [<img height="48px" width="48px" alt="Icone Azuve DevOps" src="https://skillicons.dev/icons?i=azure"/>](https://azure.microsoft.com/pt-br/products/devops/)
 [<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
+
 
 
 ##
