@@ -19,7 +19,6 @@
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img height="48px" width="48px" alt="Icone PHP" src="https://skillicons.dev/icons?i=php"/>](https://www.php.net/)
 [<img height="48px" width="48px" alt="Icone Laravel" src="https://skillicons.dev/icons?i=laravel"/>](https://laravel.com/)
-[<img height="48px" width="48px" alt="Icone Vue" src="https://skillicons.dev/icons?i=vue"/>](https://vuejs.org/)
 [<img height="48px" width="48px" alt="Icone PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org)
 [<img height="48px" width="48px" alt="Icone MongoDB" src="https://skillicons.dev/icons?i=mongodb"/>](https://www.mongodb.com/)
 [<img height="48px" width="48px" alt="Icone Redis" src="https://skillicons.dev/icons?i=redis"/>](https://redis.io/)
