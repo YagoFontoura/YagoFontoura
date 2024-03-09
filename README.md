@@ -6,7 +6,7 @@
 - 🔰  Sou do Rio de Janeiro/RJ, Brasil.
 - ⚡ Apaixonado por Tecnologia e aprender.
 - 🧠 Formado em Engenharia de Software.
-- 🏦 Atualmente trabalho como Analista de Sistemas na Rede Hospital Casa, uma Rede de Hospitais com Sede no Rio de Janeiro/RJ
+- 🏦 Atualmente trabalho como Desenvolvedor FullStack na Rede Hospital Casa, uma Rede de Hospitais com Sede no Rio de Janeiro/RJ
 
 ##
 
@@ -17,6 +17,7 @@
 [<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img height="48px" width="48px" alt="Icone Sass" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com)
 [<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>]([https://developer.mozilla.org/pt-BR/docs/Web/JavaScript](https://www.typescriptlang.org/))
+[<img height="48px" width="48px" alt="Icone NextJs" src="https://skillicons.dev/icons?i=next"/>]([https://nextjs.org/])
 [<img height="48px" width="48px" alt="Icone Nodejs" src="https://skillicons.dev/icons?i=nodejs"/>]([https://www.php.net/](https://nodejs.org/en))
 [<img height="48px" width="48px" alt="Icone Express" src="https://skillicons.dev/icons?i=express"/>](https://expressjs.com/pt-br/)
 [<img height="48px" width="48px" alt="Icone PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org)
