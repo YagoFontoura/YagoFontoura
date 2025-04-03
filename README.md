@@ -15,8 +15,7 @@
 #### Técnologias que uso:
 [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[<img height="48px" width="48px" alt="Icone Sass" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com)
-[<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>]([https://developer.mozilla.org/pt-BR/docs/Web/JavaScript](https://www.typescriptlang.org/))
+[<img height="48px" width="48px" alt="Icone Javascript" src="https://skillicons.dev/icons?i=js"/>]([https://developer.mozilla.org/pt-BR/docs/Web/JavaScript](https://www.typescriptlang.org/))
 [<img height="48px" width="48px" alt="Icone Vue" src="https://skillicons.dev/icons?i=vue"/>](https://vuejs.org/)
 [<img height="48px" width="48px" alt="Icone PHP" src="https://skillicons.dev/icons?i=php"/>]([https://www.php.net/docs.php])
 [<img height="48px" width="48px" alt="Icone Laravel" src="https://skillicons.dev/icons?i=laravel"/>]([https://laravel.com/])
