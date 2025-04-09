@@ -15,6 +15,7 @@
 #### Técnologias que uso:
 [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[<img height="48px" width="48px" alt="Icone Tailwinds" src="https://skillicons.dev/icons?i=tailwind"/>](https://aws.amazon.com/pt/)
 [<img height="48px" width="48px" alt="Icone Javascript" src="https://skillicons.dev/icons?i=js"/>]([https://developer.mozilla.org/pt-BR/docs/Web/JavaScript](https://www.typescriptlang.org/))
 [<img height="48px" width="48px" alt="Icone Vue" src="https://skillicons.dev/icons?i=vue"/>](https://vuejs.org/)
 [<img height="48px" width="48px" alt="Icone PHP" src="https://skillicons.dev/icons?i=php"/>]([https://www.php.net/docs.php])
@@ -26,6 +27,7 @@
 [<img height="48px" width="48px" alt="Icone Vite" src="https://skillicons.dev/icons?i=vite"/>](https://vitejs.dev/)
 
 
+
 ##
 
 #### Ferramentas que uso:
@@ -35,7 +37,8 @@
 [<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
 [<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
 [<img height="48px" width="48px" alt="Icone AWS" src="https://skillicons.dev/icons?i=aws"/>](https://aws.amazon.com/pt/)
-
+[<img height="48px" width="48px" alt="Icone Nginx" src="https://skillicons.dev/icons?i=nginx"/>](https://nginx.org/)
+[<img height="48px" width="48px" alt="Icone Linux" src="https://skillicons.dev/icons?i=linux"/>]()
 
 
 ##
