@@ -4,7 +4,7 @@
 ### O meu nome é Yago, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/YagoFontoura/YagoFontoura/master/bg-logica-programacao.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - 🔰  Sou do Rio de Janeiro/RJ, Brasil.
-- ⚡ Apaixonado por Tecnologia e aprender.
+- ⚡ Apaixonado por Tecnologia e programação.
 - 🧠 Formado em Engenharia de Software.
 - 🏦 Atualmente trabalho como Desenvolvedor FullStack na Rede Hospital Casa, uma Rede de Hospitais com Sede no Rio de Janeiro/RJ
 
