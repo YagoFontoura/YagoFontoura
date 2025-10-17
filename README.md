@@ -21,6 +21,7 @@
 [<img height="48px" width="48px" alt="Icone PHP" src="https://skillicons.dev/icons?i=php"/>]([https://www.php.net/docs.php])
 [<img height="48px" width="48px" alt="Icone Laravel" src="https://skillicons.dev/icons?i=laravel"/>]([https://laravel.com/])
 [<img height="48px" width="48px" alt="Icone MySql" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+[<img height="48px" width="48px" alt="Icone RabbitMQ" src="https://skillicons.dev/icons?i=rabbitmq"/>](https://www.mysql.com/)
 [<img height="48px" width="48px" alt="Icone MongoDB" src="https://skillicons.dev/icons?i=mongodb"/>](https://www.mongodb.com/)
 [<img height="48px" width="48px" alt="Icone Redis" src="https://skillicons.dev/icons?i=redis"/>](https://redis.io/)
 [<img height="48px" width="48px" alt="Icone Docker" src="https://skillicons.dev/icons?i=docker"/>](https://www.docker.com/)
